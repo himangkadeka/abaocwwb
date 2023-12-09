@@ -1,0 +1,66 @@
+/*.dashboard-bgcolor 
+{
+    background-color: #0c283b!important;
+}*/
+#state-table_filter
+{
+    text-align: end;
+}
+#state-table_filter label
+{
+    text-align: start;
+}
+#po-table_filter
+{
+    text-align: end;
+}
+#po-table_filter label
+{
+    text-align: start;
+}
+.add-butt{
+    text-align: end;  
+}
+#bank-table_filter
+{
+    text-align: end;
+}
+#bank-table_filter label
+{
+    text-align: start;
+}
+#office-table_filter
+{
+    text-align: end;
+}
+#office-table_filter label
+{
+    text-align: start;
+}
+#user-table_filter
+{
+    text-align: end;
+}
+#user-table_filter label
+{
+    text-align: start;
+}
+#scheme-table_filter
+{
+    text-align: end;
+}
+#scheme-table_filter label
+{
+    text-align: start;
+}
+.clear-button {
+    position: absolute;
+    right: 20px;
+    top: 35%;
+    transform: translateY(-40%);
+    cursor: pointer;
+    display: none;
+}
+#collapsibleNavbar .main-menu li a {
+    font-weight: bold !important;
+}
